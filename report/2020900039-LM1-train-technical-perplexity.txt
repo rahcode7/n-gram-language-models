@@ -1,0 +1,211 @@
+Welcome back to this course on polymer chemistry and in today ’ s lecture , which is lecture number seventeen , I am going to cover or begin our discussion on ionic chain polymerization 	1.000028338684792
+And then we will go to cationic chain polymerization and talk about different types of initiation for cationic chain polymerization , and then go to propagation and termination reactions in cationic chain polymerization 	1.0000001254286663
+And then I will talk about kinetics of cationic chain polymerization and then energetics of cationic chain polymerization 	1.0004261447871057
+And in next lecture , I plan to talk about the other type of ionic polymerization , which is anionic chain polymerization 	1.000035509157758
+Now , let us begin our discussion on ionic chain polymerization 	1.052427806050296
+Now , as the name suggest , in this case the initiation is from an anionic species , whether it is a cation or anion 	1.000003166105115
+Say , if I consider M as a monomer and I is a , initiation , initiator , then it could be a cation or an anion , which will , according to which we name cationic polymerization or anionic polymerization 	1.0000000234011461
+It could be acceptance of electron giving rise to a radical anion or removal of an electron , which gives to radical cation , which two of which might combine to give you a dianion or a dication which can further initiate the chain reactions from both the sides 	1.0000005862415586
+So , this is example , this is a case of cationic polymerization 	1.0000497168634122
+This is a case of cationic polymerization and this two are the case of anionic polymerization 	1.0004904531874592
+Now , in this case , the ionic species are the initiator or rather the initiators are ionic species , so as the propagating species also ionic 	1.0000004672385998
+Now , the some polymerization , for example , initiation by coordination or semi clock side , which also progress through an ionic species , propagating , propagates through ionic species route , but those we are not going to cover as an ionic chain polymerization 	1.000000036907642
+There are main , too main reasons why they are not so utilized commercially 	1.0093466238961866
+One is that stringent requirement of polymerization in case of this ionic polymerization 	1.0033501670251945
+We require very , stringest , stringent conditions , which are difficult to achieve in a large industrial scale and also , this ionic polymerization are very selective , which means , that not every monomer can be polymerized by ionic polymerization , unlike , unlike radical case where most of the , poly , monomers , double bond monomers can be polymerized by radical chain polymerization we can assume 	1.000000000000078
+So , these are the main two reasons why this ionic chain polymerization , are not practiced that commercially in that scale 	1.000068937905247
+However , this polymerization is ionic chain polymerization , gives us opportunity to synthesize specialized polymers , like block copolymers or tellically polymers , which are basically type polymers , having functional groups at the end of the chain , which we can , we utilized for the , for another reactions 	1.000000000697522
+So , let us start the discussion on ionic polymerization and let us talk about first the general characteristics 	1.0008033410417978
+First is that as I just said , that it is , it is much more selective , much more selective 	1.0000759763411504
+Now , why do we started our discussion on chain polymerization ?	1.0317790161361344
+We talked about , that this monomers like this ether , which have electron donating group like there oxygen , which can be lone pair , can be donated if it is a cationic centre here 	1.000000517854914
+Now , this type of monomers can be polymerized by cationic chain polymer , polymerization reaction because the resulting cationic propagating can be stabilized by the electron donating , mechanizing donation by the oxygen from here 	1.0000006549301266
+Now , for anionics , for anionic chain polymerization we need to have monomers , which have electron withdrawing group , electron withdrawing group , which could be , as we discussed earlier , something like this , acrylates or methacrylates , and , and so on , with this can be polymerized anionically because the resulting anion can be stabilized by this resonating with the carbonyl bond 	1.0000000000000844
+So , in that sense , this anionic and cationic polymerization at very and only if the monomer has , monomer with , monomers with , with inductive effect and ability to stabilize the propagating species by resonance in the , both for cationic and anionic , then this monomers can be polymerized by both cationic and anionic 	1.0000000000172655
+So , if I write on the , complete this sentence , in that you can able to do , stabilize both cationic and anionic propagating species 	1.0000075801145927
+For example , you have styrene where both cationic and anionic can be stabilized by resonance with this aromatic proof or say , cation , resulting cation or anionic can be stabilized by resonance from this double bond 	1.0000019753988147
+As we see , we have seen now from this discussion , that not every monomer can be polymerized by anionically and there is a set of polymer , a set of monomers , which can be polymerized anionically 	1.0000000234050699
+And you know , less number of monomers can be polymerized cationically , and there are even lesser number polymers , which can be polymerized by both anionic and cationic polymerization 	1.000004334868886
+While in case of radical we have seen , that all this , this monomers or this monomers or this can be all polymerized by radical chain polymerization 	1.0000030235514288
+So , in that case , in that composition radical is a , radical chain polymerization is much least sensitive compared to the ionic polymerization 	1.0000022083392477
+Now , second characteristics , if you want to talk about , is the effect of polarity , effect of polarity of the solvent 	1.0000064101445463
+It is not only polarity , but the capability of the solvent molecules to solvate the ionic species giving the chain propagation 	1.0001341185912678
+Now , as you have seen earlier , that a propagation reaction can be this 	1.0017029907932453
+Now , this anionic species or cationic species , they are not present alone in the medium , they are always associated with or accompanied by a counter ion 	1.0000000825032824
+For the positive it is a anion , for negative it is a cation 	1.0020087143227303
+So , this propagating chain are always of this ionic group , are always accompanied by a counter ion of oppositely charged , that is always happens 	1.0000048695650474
+So , the propagating species is less reactive 	1.0121557246806505
+While if you compare with the situation where they are well separated , they are like free , free hands 	1.0014076689276197
+Now , if they are free , then obviously , they are more accessible and the reactivity of this propagating species , ionic propagating species are much more reactive or much more reactive compared to situation when they are tight ion - pair 	1.000000030626001
+So , it is always preferred , that you have a polar solvent , it is , this is always preferred 	1.0000002087316413
+We do ionic reaction in a polar solvent because if you have polar solvent , then this oppositely charge ions , ions will be well separated in the medium and if they are well separated , obviously , the reactivity of the active center in the propagating chain will be higher 	1.00000000026226
+So , you have a higher rate of reaction or an eventually higher molecular build up 	1.0002229141145895
+Now , often if you use polar solvent , for example if you use hydroxylated solvents , hydroxylated solvents like say , H 2 O or alcohol , what happens ?	1.0000025338351752
+This , this reacts , this hydroxylated solvents react very , very fast , you know , very effectively they react with this ionic species and then stop the chain 	1.0000052530732673
+So , these ionic centers are destroyed with reaction of this hydroxyl , hydroxy molecules , H 2 O or alcohol 	1.0003208339704588
+If you have other polar solvents , like say ketone , what happens ?	1.0069187754983278
+This ketone loop complex form complex with this ionic species and then once they form complex , the reactivity of this ionic species are lost 	1.0000076922481802
+So , you do not have an effective polymerization happening 	1.023264665359542
+So , you require a polar solvent to have these charges separated and ions as free as possible 	1.0013666756775803
+So , these are the examples of some of the solvents , which have , medium , low to medium polarity and does not high react with those ionic species 	1.0000067700608826
+They , they actually can be used for ionic species polymerization , but this is , these are not very generic in the sense , that the solvents , this solvents also can react with anionic species as well 	1.0000000024442182
+We will talk about cationic and anionic polymerization individually 	1.0250424727912613
+Two , they can be tight ion - pair ; these are very tight , no solvent molecule in between 	1.0040380688241832
+Same thing is called with different names 	1.407495627629751
+It can be present as solvated 	1.3071131745437818
+So , these are the possible , depending upon the polarity of the medium this could the four possible association state between these two ionic species 	1.0000781224682578
+Now , it , we have given examples of cation and anion here where the propagating species is B plus , is said the both cationic polymerization , the propagating species in cationic polymerization 	1.0000002329339366
+But it can be true ; this post can be true for the other anionic polymerization as well 	1.0004430145489898
+Now , obviously , with the increase in the polarity of the medium , if you increase the polarity of the medium , this , this , the more polar means , the ions get solvated and then finally , get as free ion , ion - pair 	1.0000000000576457
+So , as the reactivity of the ionic centre , obviously , the free is the ionic center it gets , it becomes more reactive 	1.0000145340438025
+So , which means and in some cases these , these are not present isolately , they actually remain in equilibrium and equilibrium shifts depending upon the polarity of the medium 	1.0000008986412696
+And if you compare with radical chain polymerization , solvent polarity actually has no such role to play in case of radical chain polymerization 	1.0000822751945038
+You have to only check whether the solvent can solubilize the monomer or the reagent and it , solvent should not participate in the undesired chain transfer reactions 	1.0000954528948438
+So , third characteristic we can talk about and compare the nature of reaction 	1.0207667441240487
+Now , this , these are complex reactions as we will find out from further discussion , that these are complex reaction and they are very fast 	1.0000001991305343
+They are fast ; they are about , say , 10 to the power 4 to 10 to the power of 6 times of the reaction rate of radical chain polymerization 	1.0000015005604723
+So , they are very fast and this fast nature of this reaction is due to the fact , that the accumulation of this active centers 	1.000001895585899
+And as we will immediately discuss , that in case of ionic reaction , this bimolecular , molecular , termination bimolecular termination by reaction between two propagating species is absent or absent because they are anionic charge 	1.0000001571691617
+One cation cannot react with another cation , cationic propagating species and terminate the reactions in case of radical 	1.000471772675394
+What you have seen , that radical , two radical propagating species can react with each other and can terminate either by combination or by in case of cationic , anionic polymerization or cation polymerization 	1.0000018062079696
+Because they have seen this propagation species are similarly charged , they cannot react with each other and terminate the chains 	1.002129840624167
+As a result , there is a huge increase in the concentration of these active centers in the medium and as a result , the reaction is very fast 	1.0000000752378682
+And as these ionic centers are very reactive , they are very sensitive to , very sensitive to impurities , which includes moisture because they are very active , reactive 	1.0000014819287864
+These ionic centers are very reactive , they are very sensitive to this impurities where you know , that radical , though radical chain polymerization are sensitive to impurities , but they are not as radical chain polymerization , is not as sensitive as in case of ionic chain polymerization and sometimes large effect of , large effect of cocatalyst 	1.0000000000002396
+Cocatalyst are nothing but small inorganic compounds , like say H 2 O , can be observed in case of ionic polymerization have , which was not the case of radical polymerization 	1.0000006731141828
+And as the reaction is very fast and complex , this kinetic data , kinetic data are often , often not reproducible because this kinetic data is not always reproducible , especially in this case of kinetics , especially in case of cationic polymerization , cationic , the mechanism and the mechanism on kinetics of this ionic polymerization , especially cationic chain polymerization is still not completely understood , to understand the mechanism in kinetics of this ionic polymerization , especially the cationic one , because as I said , these reactions are very fast and not reproducible 	1.0
+And as I said earlier , this four is your , the termination reactions 	1.0025064837649922
+So , if you can stop the side reactions , which includes the chain transfer reaction , then you can actually make this chain alive or this polymerization could be living polymerization and that is especially true for anionic polymerization 	1.0000000226638954
+Whereas , in case of radical , we know , that this termination can be possible by bimolecular reaction of the two propagating new species 	1.0000073402399503
+So , let us now talk in detail about the cationic polymerization 	1.0228939052646249
+So , I should write cationic chain polymerization 	1.036196410810358
+Now , if I write generic way , H plus plus A , generic structure of a monomer , it gives you CH 3 CH Y , cationic species , and A minus 	1.00000232303088
+This is counter A minus , is the counter ion 	1.0072057573370274
+Now , HX would be strong enough if these acids should be stronger enough to produce significant concentration of the protonal species , so that it can initiate , react with the monomer 	1.0000176679622181
+And A minus , the counter ion , should not be heavy , strong nucleophile because if it is a very strong nucleophile , then it can react with the cationic group and make a covalent bond and stop the reaction there itself 	1.0000000283834722
+So , your reaction stops there 	1.1584090405091516
+You cannot have the reaction progressing further 	1.1648778058084415
+They are used , they can be used because this counter ions are not so strong nucleophile like halide ions , but still this , this , because they are , they are also significantly nucleophilic , this cannot built very high molecular with polymers by cationic chain polymerization 	1.0000000006599115
+So , these are limited and the molecular weight , molecular weights are not very high for this proton by this reaction , cationic reaction by this protonation 	1.0000069561908704
+So , most , most popular , most important , this electrophilic reaction is reaction of Lewis acids 	1.001564246722317
+For example , if you take a reaction of isobutylene plus anhydrous BF 3 , anhydrous BF 3 , then there is no reaction 	1.000015243002476
+But at the moment you add little bit of water along with this mix , so you have the same reaction with BF 3 plus H 2 O , then there is a rapid reaction 	1.0000044181186813
+So , these examples showing as these Lewis acids , which we just showed in the last page , they are often used along with a second catalyst or cocatalyst , which can be water molecules or some other molecules 	1.0000000562742852
+We will just give examples in few minutes 	1.1228680621271325
+So , if you consider this case the reaction happens like this 	1.0010986943848514
+BF 3 plus H 2 O makes a complex or we can use other Lewis acids and we can use this alkyl halides as a cocatalyst and this case , the complex found is like this 	1.0000029406142408
+Now , this is called nowadays initiator because this is the species , which is supplying the H plus or R plus 	1.000006638031805
+This is coinitiator , coinitiator , BF 3 or AlCl 3 are , sometimes they are called this BF 3 or AlCl 3 , called catalyst and this initiator called cocatalyst 	1.0000375523581897
+So , you should be careful about this nomenclature , other you called this as initiator and coinitiator or you called this as catalyst and this is the cocatalyst 	1.0000018951599847
+Now , I can write generic reaction for this type of reaction 	1.0109607200940036
+Similarly , you can write this similar reaction for this aluminum chloride and alkyl halide reaction 	1.0053071517562797
+So , this is example of alkyl halide , which is used for this cocatalyst or initiator in this reaction 	1.0000181963542965
+So , I , I can write a generic equation or expression , say I , I for the initiator and YZ , this is for your coinitia , I for the coinitiator , this is for the initiator or this for catalyst and this is for the cocatalyst , giving rise to a cationic species and a counter ion 	1.00000000000001
+This is I and which then react with a monomer forming the chain initiating spices 	1.0029293637794983
+Now , we are writing ki for this reaction because it has been found out , that of these two reactions , this is the two reactions , consists of chain reaction , chain initiation reaction 	1.0000000961391704
+This , this is the step , which is rate determining step 	1.0003479271737183
+So , we will consider this reaction while calculating or while determining the , or looking at the kinetics of this chain polymerization 	1.0000634441398037
+But in this ionic chain polymerization we , this is the faster reaction step where this is the slower and rate determining step 	1.0000052238477934
+So , for ionic reaction monomer also participate in the chain initiation reaction where in case of radical monomer was not actually part of the chain initiating expression Now , the reaction rate also depend , depends on this YZ , which is basically a cocatalyst 	1.0000000000173892
+It will also influence the polymerization rate because the activity of the initiation complex depends how readily it can transfer a proton to the monomer and that in turn depends on the acidity of this cocatalyst 	1.0000025029286037
+For example , if I consider ionic , cationic polymerization of isobutylene by tin chloride catalyst , then the reactivity of this reaction or the rate of reaction follows Rp , follows in the order like this , nitroethane , nitroethane , phenol , water , which is basically the ranking of the acidity of this cocatalyst 	1.0000000000100915
+So , it follows this trend and for the carbon cationic generator like RCl , like AlCl 3 plus , this reaction 	1.000192135961532
+Now , this reaction complex , the , the activity , the total polymerization rate dependence on this RCl is little complex and we will keep the discussion for this course 	1.0000011719762407
+So , you should just remember that the , the structure of the cocatalyst also determines the rate of polymerization and also affect the rate of polymerization , and we will now see that 	1.0000000112259775
+Obviously , I , the catalyst or the coinitiator also affects the rate of polymerization 	1.0020831299594712
+So , for a single metal , say , if we consider titanium , then again the Lewis acidity increases with the oxidation number 	1.0000193181033152
+So , TiCl 4 have more Lewis acidity compared to , Tl , TiCl 3 than this 	1.007023082946371
+So , for , if you compare with defined , different metal is basically atomic number 	1.000862663010455
+It will determine the Lewis acidity and for same , same metal is the oxidation state increases , the Lewis acidity increases and also the Lewis acidity 	1.0000256210279945
+For a single metal follow this trend of the ligand 	1.0481256534698697
+If the side reaction rate also increases , then again the problem of molecular build up come 	1.0016976417682588
+Now , there are other initiation reactions , other initiation reactions , for example , halogen , halogen can be reacting with more acidic Lewis acid and gives out cation , halogen cation 	1.0000050220123253
+This can be initiation ; can be done by photo initiation of olium salts 	1.0301012391867155
+It can be done by electro initiation where cationic species is formed by electrolysis of any species present in the medium or it can be done by ionic , ionization radiation , like in the case of radical the initiation can be done by ionization 	1.0000000339421993
+So , these are the other possible ways of initiating a cationic polymerization 	1.0054355779610957
+But as I mentioned in earlier , these are the generic examples , which we get in this page 	1.0000859531738433
+So , energetic , we will consider this generic initiation step and also consider this initiation step , of , for the discussion because this is the most important of the initiation step we just discussed 	1.0000000758309116
+Propagation , we have already seen the different types of initiation possibility and as I said , we will consider the generic case , we , as I showed there 	1.0000030613865014
+So , this , this was the initiation reactions 	1.0021800306811026
+I write this in the next page , it can react with the name and start the chain propagation reaction and I can write a generic expression of this in this way plus M kp n plus 1 M plus IZ minus 	1.0000001150751512
+If Y is H , the photogens we can write H M n M plus IZ minus 	1.0150082830753437
+For examples , that Ba 3 water case , I can write this is a proton donor 	1.0008241905211177
+This , on reacting on with isobutylene , will produce the.. ... So , these are the examples of the propagating steps and sometimes this propagation reaction could be complicated and because of this one two hydride shift , but that is not very common 	1.0000000515912166
+So , as a result more complicated products actually form when there is type of hydride shift or some cases methide shift , some cases shift one two methide shift 	1.0000252403253183
+But this is not common ; this is especially applicable to some monomers 	1.0140702236412644
+So , the rate of polymerization will be higher 	1.0053001545391211
+Now , let us have , let us see some data related to convince that understanding 	1.007686236455926
+Say , let us take example of styrene , polymerization of styrene by or chloric acid HClO 4 solvent is a mixture of CCl 4 and ethylene dichloride 	1.0003994426052076
+This is a dielectric , resulting dilating constant and this is your kp liter mole inverse second inverse 	1.0010787052192534
+If you have pure CCl 4 , obviously , this is more non - polar , dielectric constant is 2.3 and the rate is low 	1.0000403333683119
+If you consider further , 20 , 80 , 7 and this is 3.2 , 3.2 , 0 , 100 , 9.72 and this is 7 	1.000072296105735
+So , if this is the data to convince you , that if you increase the polarity , which is given by dielectric constant , the rate constant or the rate of the polymerization reaction increases 	1.0000000055708278
+And for example , if we consider the beta proton transfer to monomer , I can write k transfer monomer just like the radical polymerization 	1.0001149887004288
+If we consider the same examples of isobutylene polymerization by BF 3 and H 2 O , this can transfer beta proton to the monomer and can form this and plus the 2 2 beta proton , one is here and one is this hydrogen 	1.000000062577696
+So , one , depending on which proton is leaving you can get actually two structures with double bond 	1.0016886090191583
+For example , like you have alpha methane styrene in case of , say , example , the monomers like styrene , where you always get only one possible double bond because there is only one possible beta hydrogen to be eliminated 	1.0000001331361081
+So , this is very common , this is very important termination process and it could be , this termination could happen to one of the , or any of the other agent as well 	1.0000000026220854
+We have been discussing so far the steady state analysis of mass transfer and biochemical reaction in immobilized enzyme reactors 	1.0034612985370759
+Under steady state condition , the rate of mass transfer can be equated to the rate of biochemical reaction and then by analysis one can come under two extreme conditions ; one under high substrate concentrations we get a Lineweaver Burk profile which is analogous to ordinary soluble enzyme kinetics and in the case of low substrate concentration that is in this case ; low substrate concentration and high substrate concentration you get differences in slopes and the measurement of slope at two distinct stages of Lineweaver Burk plot gives you an estimate of the value of mass transfer coefficient 	1.0000000000000002
+You do film diffusion klam can be computed 	1.099046125103818
+Therefore based on the observed reaction velocity in the case of an immobilized enzyme reactor one can determine the value of Sb - Ss that is the substrate concentration gradient and the magnitude of this determines whether the reaction is diffusional limited or otherwise 	1.0000000008026133
+If the Sb - Ss is zero or very small quantity then there is no diffusional limitation 	1.001253296573737
+We are now looking at a general approach to understand the external film diffusion 	1.0479966678815127
+We determine by some experimental method or an analytical method or an empirical equation the magnitude of the mass transfer coefficient and the magnitude of mass transfer coefficient will give you the magnitude of the concentration gradient and so another alternative route to estimation of mass transfer coefficient has been from empirical relationship what we call as JD factor 	1.0000000000411908
+JD factor is defined as a lumped parameter which takes into an account the mass transfer coefficient particularly field diffusion coefficient as well as the reactor operational parameters 	1.0000469642719443
+/ G ) ( µ / ?	1.5926775023032052
+The first term in the parenthesis represents the mass transfer function ; the other is dimensional number which gives you the operational parameters and here kL is a mass transfer coefficient ; ?	1.000014418036966
+A large number of correlations giving the values of C and n have been proposed under different conditions and one of them which needs the actual reaction conditions can be chosen from the literature and used for estimation of JD 	1.0000026552256045
+If you look at this one , you will notice that from the estimation of JD factor as a function of C , Renault number to the power minus n one can determine the value of kL 	1.0000011775712025
+Because kL will be equal to kL = JD.G / ?	1.1130336072763263
+.Nsc 2 / 3 If you convert this magnitude of kL is related to JD factor by JD value and also a combination of the reactor operational parameters ; superficial mass velocity , density and …. .. number 	1.0000119424143465
+That is v ’ = kLam ( Sb - SS ) = rm Under steady state both the biochemical reaction and the mass transfer rate are equal 	1.0000785163665136
+This v ’ can be considered as the observed reaction rate which has been monitored experimentally and therefore one can determine the magnitude of Sb - Ss and that determines whether the diffusional control is there or not and accordingly one can design the reactor 	1.0000000372342863
+JD can be computed from a variety of correlations as I mentioned 	1.0156762306878655
+One of them which have been applied is developed by McCune and Wilhelm 	1.020877114742967
+This is only one of probably a large number of relationships that are reported in the literature of heterogeneous catalysis in chemical engineering 	1.0003564884441023
+For spherical particle JD is equal to JD = 1.625 ( NRe ) - 0.507 This is one of the relationships which have been proposed but a large number of such empirical correlations are known 	1.0000130446411537
+In most of the practical cases whether it is a plug flow reactor or a CSTR , the error involved in assuming the whole reaction to be under a first order regime or a zero order regime is not very large depending on initial substrate concentration 	1.00000025879141
+So a first order approximation is not something which is invalid and as I mentioned earlier if you take certain data roughly an error of about ten percent in calculation of the space velocity is encountered 	1.000008788722414
+Similarly in the case of PFR , because the enzyme loading is very high usually in PFR , a large fraction of the reactor also experiences a low substrate concentration 	1.000008875496781
+It also experiences high product concentration 	1.3398648440447298
+But substrate concentration keeps reducing and towards the end of the reactor , the substrate concentration will be very low and one can assume a first order kinetics 	1.0000092248052532
+If you equate the two that is v ’ = rm , that will imply that kf amSS = kLam. ( Sb - SS ) Therefore from this substrate concentration on the surface can be calculated as SS = kb.Sb / kf + kL or the observed rate is kL.kf.am.Sb v ’ = kf + kL Then the actual rate constant which incorporates the film diffusion coefficient is this parameter 	1.000000000017553
+kL can be determined either from experimental data from the Lineweaver Burk plot or from empirical equation of the JD factor 	1.0017551463776773
+am is determined experimentally based on the geometry of the particle and kappf can be determined 	1.002235424133283
+kappf can be used to designate the reactor performance of the first order immobilized enzyme reactor with film diffusion limitations or film diffusion control 	1.0001658745703732
+Another way again an empirical way to look at the film diffusion has been proposed by Satterfield 	1.0052761037016777
+I must here again point out that the whole analysis of the immobilized enzyme reactor has been largely dominated by chemical engineering literature particularly with reference to heterogeneous catalysis because the systems are very identical excepting the thermal , specificity aspects which are attributed to enzymatic reactions but the catalysis part whether it is a heterogeneous catalyst in the case of chemical engineering that means a catalyst supported on a solid matrix 	1.0000000003059408
+Even in chemical engineering that is very conventional thing ; only difference is that those catalysts are very , very stable interms of their thermal , operational as well as storage stability where as immobilized enzymes are not as stable 	1.0000014264788137
+But all the analysis is identical and Satterfield also provided a single point reactor performance equation based on film diffusion control for heterogeneous catalyst 	1.0017417356979805
+He defined a parameter Z as equal to e NRe2 / 3.NSe2 / 3 Y1 Z = ln 1.09 av Y2 Here sigma is voidage as we are familiar ; Renault number and the semite number and av is the ratio of particle surface area to reactor volume and Y1 is the mole fraction of substrate in feed ; Y2 is equal to mole fraction of substrate in the product stream and Z is the length or the height of packed bed required for mass transfer 	1.0000000000040088
+That means Z is the height of the length of the packed bed required to transfer the substrate concentration across the film as a function of Renault number and Semite number purely on the basis of mass transfer control ; no biochemical reaction is assumed here 	1.0000000169923127
+If the mass transfer has to be incorporated this much of length of the reactor is required under these operational conditions to have the substrate concentration equivalent to biochemical reaction 	1.000005442596327
+That means to make Sb - Ss equal to zero , without any biochemical reaction this much of height of the reactor is required under these operational conditions 	1.0001133183579927
+The one which is larger has to be used 	1.0410297630118814
+You simply design your reactor on the basis of biochemical reaction and be happy 	1.0236805678199286
+On the other hand if this height required is reasonably high then you forget about biochemical reactions and design the reactor based on diffusional requirements based on the mass transfer coefficients 	1.0000901206460977
+This is basically empirical equation depending upon the reaction operational data the height required for effecting the mass transfer across that film 	1.0003829475804145
+Right ; only Z1 ; you don ’ t bother about Z2 	1.0826354115016623
+You then don ’ t have to bother about the biochemical reaction because in that height reaction would have already taken place 	1.000942494785239
+You must appreciate the difference between the internal pore diffusion and external film diffusion while in the case of internal pore diffusion during the transport of the substrate in the particle reaction is also taking place whereas here there is no reaction taking place along with the mass transfer ; its only mass transfer 	1.0000000014309667
+Only difference is that between the bulk and the surface where the reaction is taking place there is concentration gradient and ideally if the diffusion control has to be out of picture in that case the concentration gradient should not be large and this concentration can be reached if you assume that there is no substrate consumption at the surface 	1.0000000000116644
+One of the two , which is larger , is required to be considered 	1.0002221702417453
+In the case of porous matrices a very large quantity of fraction of total enzyme which is immobilized is within the pores of the particle 	1.0003514054453486
+Therefore it will become very important that we look at the concentration of substrate available for the enzymatic reaction within the pores of the reaction 	1.0001976603422615
+K ’ m + Ss I mentioned Ss that means I am excluding the film diffusion 	1.0128025577382367
+But at the moment we are talking only of biochemical reaction and internal pore diffusion assuming that the transport through a film is fast enough and it does not create any problem 	1.000059935235322
+In this case this is defined by a factor ?	1.04823145228908
+which is called as effectiveness factor 	1.2983154975781321
+This effectiveness factor is the ratio of the rate of actual reaction in the matrix divided by the maximum reaction rate obtainable if there was no pore diffusional resistance 	1.0000351884484744
+That means a very physical conceptual picture of effectiveness factor can be considered 	1.019329719090739
+Even if the diffusional rate is very slow the substrate can reach to all parts of the enzyme go down to as low as possible and the ratio of the two that means the maximum reaction rate which you can get when you go down in the particle size to that of the reaction rate which is obtained by a particular particle size is defined as the effectiveness factor 	1.0000000000000093
+If you consider a very hypothetical condition a single pore as a part of the matrix 	1.0025517687312195
+This is surface ; this is thin film 	1.0345355644431269
+You have Sb here ; you reached Ss ; there is no substrate concentration gradient but then here onwards there is a gradient 	1.0000599520485116
+There are two things you must appreciate in contrast to the film diffusional effects 	1.0382042482759464
+One is that there is a rate of diffusion ; the substrate will take some time to reach to the different sites of the enzyme present in the pores 	1.000008776016773
+The other is the substrate is also getting consumed during the reaction 	1.0232454650005247
+So therefore if suppose the bulk substrate concentration is itself very low there is likely hood that by the time the substrate reaches to the inside pores , center of the particle there is no substrate present and reaction cannot take place even if enzyme is there 	1.0000001547113182
+So therefore if particle size is reduced you get an advantage that the fraction of the total particle which is receiving the substrate increases coming to one when the particle size is too small and usually in most cases as per the experimental experiences that a particle size about thirty microns in most cases of the biochemical reactions has been considered to give you an effectiveness factor of one 	1.000000000046975
+Average perplexity	1.2435866733093615

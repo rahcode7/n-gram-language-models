@@ -1,0 +1,218 @@
+Fresh breath and shining teeth enhance your personality	1.5473504863735121
+Bacteria stay between our gums and teeth	1.5978629075794542
+They make teeth dirty and breath stinky	1.346262850781176
+You may keep your teeth clean and breath fresh by the help of some easy tips given here	1.0117467818268813
+Clean your teeth properly	1.7326187606880885
+It takes two to three minutes to clean your teeth properly	1.20133590047445
+Bacteria attack fast if the mouth dries up	1.2531205803816436
+With this stink comes from breath	1.4877603903858978
+Saliva has important role in keeping the mouth clean	1.1274833394883335
+Saliva destroys those bacteria which create stink in breath	1.3288738095145207
+Chew the sugar-free chewing gum	1.957997378969571
+Saliva is formed by chewing the chewing gum	1.3075760843885806
+Chewing gum helps in keeping the teeth clean	1.2458962468428214
+Sugared chewing gum is not supposed to be good for health	1.1262741262466482
+That is why dentists do not suggest chewing sugared chewing gum	1.1639558243019417
+Get the teeth checked-up regularly	1.3366852969051617
+Get the teeth checked-up with the dentists regularly	1.130802267680703
+Do clean the mouth every time with water after eating	1.1268990620125634
+The left-over pieces of food is cleaned by it	1.2639691657625807
+Clean the teeth with the mixture of lemon and salt	1.107446215847339
+Clean the teeth every week with this mixture	1.1998177310950096
+Not only teeth starts shining with this ,	1.2374271753127406
+If there is health there is everything	1.2698682928565277
+It is not less than a challenge to keep oneself healthy in today 's busy life	1.0244884148381892
+Eat less fatty food	1.5130366348689706
+Eat only that food in which there is less fat and more fiber	1.0657868960451422
+Fruits and vegetables have a ratio like this	1.4682811267610008
+We get helped in controlling our weight by taking less fatty and fibered food	1.1526559225213646
+You keep yourself far from many diseases by eating less fatty and fibered food	1.1009487527045718
+Take less salt and alcohol	1.3947298621792286
+Take the least quantity of salt and alcohol to control blood pressure and cholesterol	1.0209069509635722
+Stop smoking	1.6897298611767044
+Try your best to quit it	1.5001860904270055
+Exercise daily	1.6897298611767044
+You can prevent heart diseases , colon cancer , blood pressure and diabetes like diseases by regular exercise	1.0164503336340176
+Keep doing light physical activities	1.4026181077065936
+Keep doing small physical activities like climbing stairs , gardening , small domestic works or dancing	1.061333483483864
+If fever comes continuously you must get it checked up	1.114636539164257
+Malaria , kalajar , tuberculoses starts with fever	1.4421610387725918
+Summer season has started	2.2329344371238604
+Do not eat stale food and the things being sold at road sides	1.0354371273200076
+Do not feed children fast food , kurkure , ice-cream	1.090699189605158
+In case of vomiting and loose-motion feed the O.R.S.or mixture of salt and sugar	1.0452604713789495
+Drink pure water as much as you can	1.3274681410023002
+Kalajar , Malaria or high fiver may have happened	1.3322711788404744
+Not only this , a white coat also forms on tongue	1.170917257725152
+Drink plenty of water and get urine culture done	1.1948149191566682
+What are the primary symptoms of kalajar ?	1.3091150062348904
+I have light fever for some days	1.4963270098068844
+Fever goes down after taking the tablet of Metacin and again fever increases up to 103	1.0437577656937171
+If fever is more then 100 give a pill of paracetamol and take suggestions from a medicine specialist doctor	1.0176843364400805
+What is H.I.V.?	1.2651032197476366
+How does it happens ?	1.6209824911783166
+State the solutions of prevention ?	1.8090097640919316
+This is a kind of virus	1.4976019444921271
+Its spread occurs mainly through unprotected sex relation , infected needle , infected blood and from mother to children	1.0236933418244043
+The disease immune capacity of the body keeps on decreasing with this	1.0255972872807888
+Bones become weak and starts melting	1.7323002780336225
+Paralysis may also attack in this situation	1.172188730145514
+To test it do digital X-ray , M.R.I., take medicine of tuberculosis for a year and consult the specialist doctor	1.0210079026672525
+Keep a shawl necessarily over the body and run the fan to the minimum in the night while sleeping	1.0116884176345151
+If you do not feel comfortable with it take anti-allergic tablet for ten days	1.0571753917141364
+Children are suffering from prickly heat , what to do ?	1.2992917448744548
+What is the home treatment of diarrhoea ?	1.0922088069953382
+Put two spoons of sugar and a pinch of salt in a glass of water and boil it	1.0203429763829999
+Does kalajar occur because of sun ?	1.5462703004250717
+Does its influence increase in summer ?	1.4848656302867587
+Kalajar is caused by the sting of sand-fly	1.3148689308716273
+Its treatment is available in all the hospitals	1.186979239702921
+There is a tablet also available for this now	1.0958778757669585
+What should be done when a child suffers from whooping cough	1.0623586084173855
+Administer the DPT vaccine to the child	1.4627547346535823
+How much aware are you about the care of your eyes ?	1.0629143258780354
+Get eyes checked up every six months	1.366537741933168
+Washing eyes regularly	2.069953285337917
+But along with all this if you pay attention to your food-habits ,	1.0720808121782666
+not only the vision of your eyes may be better ,	1.0568721120282258
+but you will also be safe from eye diseases	1.25799284386328
+Common blindness causing diseases like cataract and glaucoma can be prevented by increasing the amount of vitamin-C and omega-3 oils and some special plants in diet	1.0090259429321498
+So let us know how your diet should be to keep eyes healthy	1.0593949914974048
+There are two important elements like lutein , zeaxanthin which are responsible to keep vision sharp	1.0500098817546368
+Therefore everybody should eat hundred grams of green vegetables in the form of salad	1.0569806009951594
+Bilberry or blackberry anthocyanin saves from blindness or cataract	1.3285533617666188
+It is also found in the research that it strengthens the cell which brings blood and nutritious elements into the eyes	1.0037618189605644
+That is why you can also eat bilberry or blackberry in breakfast or with fruit salad	1.0346848343071917
+There is no better solution but to eat fish for keeping eyes healthy if you are a non-vegetarian	1.0111002488569427
+Omega-3 fat found in fish decreases the danger of glaucoma and weak eyes in old age	1.031541762895681
+The use of dry fruits etcetera in Indian cuisines has been continuing for centuries	1.0818290520056804
+But do you know that all the dry fruits such as almond , cashew nut , walnut , raisins etcetera are also very beneficial for eyes besides being nutritious	1.0012506912740022
+Plenty of vitamin-B is found in these , which not only saves from cataract , many kind of blindness and other eye diseases but also protect eyes from the harms of ultraviolet rays	1.0001490160880764
+Start eating pieces of dry fruits in sweets daily at the time of breakfast or meals	1.0353559041642328
+Whether it is about dropping weight or care of skin , the advice of fresh fruits in meals is given in all the cases	1.0045172597132406
+So , why should it be left for eyes	1.2540334078441822
+The danger of glaucoma , cataract , and blindness can be decreased to a great extent by taking diet rich in vitamin-C	1.003050522076069
+Including fruit , vegetable in meal is enough to maintain the eyes healthy	1.0637073697664985
+Including these things in your diet you can save your eyes from getting weakened	1.0240663229017122
+Besides this drinking milk , eating carrot is also proved to be beneficial	1.0853412206382598
+A little care taken in diet may also put new life in your eyes	1.0381324255788804
+Paralysis may be controlled by yoga	1.300087354205071
+Paralysis - when generally the functionalism , and dynamism of muscles and pulse of the right or left side of the body go less or end this problem is said to be paralysis	1.0000230767138059
+The main reason of this problem is increasing high blood pressure , blood clotting in brain , the situation of extreme happiness or sorrow etc	1.0026442411031644
+Although yoga solves the problem of paralysis permanently but it takes time and is tough	1.0745398603520384
+Therefore medicines should be taken in the beginning and yoga exercises should be done along	1.0089932367917904
+Here the main yogic diagnosis for paralysis are presented	1.2316043859413552
+Start with light exercise	1.7132082649696745
+What is onikomysis ?	1.250854280010823
+Add Suptvajrasana , Trikonasana , Uttanpadasana , Gomukhasana and Ardhmatsyendrasana etc	1.3188516176054674
+Here the method of practice of Janushirasana is presented - sit stretching both the legs forward	1.0543061261177271
+Bending the right leg from the knee touch its sole to the left leg and put the heel below the genitals	1.0110587521596095
+Staying in this position for a comfortable period come back to the previous state	1.0658088169418318
+Do the same exercise another side also	1.326063031201483
+The patients of sciatica and slip disk should avoid its practice	1.2091663739303526
+Narishodhan and ujjayi pranayam play the role of panacea to make brain and central nervous system functional and to balance and function to the nervous system	1.0075464327739454
+Do its practice under the eligible guide according to your capacity without kumbhak or holding of breath	1.0558905450316916
+Yoganidra - the main cause of this problem is mental tension and sentimental imbalance	1.063918379285688
+Meditation is the best way to free mind from all worries , sorrows , pains , grief and fears	1.0314199855235853
+Eat simple , easily digestible , nutritious food , eat bread of braned flour , old rice , porridge , pulse of green lentil , take fruits and green vegetables	1.0018592534292368
+Avoid heavy , hard to digest , tea , coffee , tobacco , intoxicating things and exciting element	1.069324120430852
+Apply the walnut oil into the nostrils of the nose daily	1.1410065691114741
+Rub the body from top to bottom with furred towel after bathing	1.08836251990511
+Use warm water for bathing	2.060526896350207
+The rising interference of technology in day-to-day life has made us very luxurious	1.1148088656641706
+Though life has become easy with mobile phone , internet but it also has harms	1.080505805435118
+Why would anyone want to bother his mind when a piece of information or a secret is just a click away	1.0231994783181466
+The more you use your brain the more capable it will be	1.0843046421471774
+Brain exercise works on this very fundamental	1.4319328899245234
+If daily common work is done in a little different way then all those parts of your brain that was not being used at all earlier would start becoming active	1.0011325067446997
+Changing clothes while keeping the eyes closed , learning a new subject or new game	1.0760758723464274
+Adopting methods like switching on electricity by the left hand instead of the right hand we can open the closed windows of the brain	1.0012750202825789
+A thing is remembered for a long time only when attention is paid to it	1.0401512638617223
+Read attentively whatever is to be remembered , and before going forward concentrate up to eight seconds	1.040878027997095
+Everybody has his own way to remember or learn anything	1.1811507889344424
+Some people are better visual learners	1.622267389461452
+Make it a habit to remember by relating information with a color , smell , taste	1.049807005123195
+Try to remember the new information by relating it with an old information	1.0601183313779696
+Try to remember any information through words and pictures	1.2283941601459276
+Brain gets more oxygen with regular exercise , with which the danger of losing memory also decreases	1.0191646797943776
+Along with some such chemical agents also oozes that will save the cells of brain from getting destroyed	1.0324912122607572
+With more tension hormone cortisol harms the hippocampus of the brain seriously	1.0458865849129977
+With incomplete sleep there is a tiredness the whole day and it becomes difficult to concentrate on any work	1.027484853975059
+Taking plenty of fruits , vegetables is proved to be beneficial for health along with the brain	1.0127495753590392
+Memory gets sharpened with vitamin B , B-12 , B-6 , food items with folic acid such as spinach , green vegetables , strawberry , juicy fruits like watermelon , soybean	1.0034299810473113
+They destroy the homocysteine which harms the nerves	1.2666387842861866
+They help in making red blood corpuscles which brings oxygen to brain	1.129624199560449
+Vitamin E , C and antioxidants are found in tomato , green-tea , broccoli , sweet potato	1.0667082364641758
+They increase the flow of oxygen in body and brain with which the activeness of brain increases	1.0122178825758699
+The brain sharpens by eating fish , walnut and almond also	1.0994253452686769
+H.I.V.stands for ` Human Immuno-deficiency Virus '	1.8327073748005307
+Immune system identifies the disease-carrier or ` external invaders ' like virus , bacteria , etc and kills them	1.0519602177121927
+H.I.V.is a virus which attacks the immune system , specially CD-4 cells and destroys them	1.0220727874254516
+CD-4 cells help protect the body from different diseases	1.1023914899685474
+What happens when a person gets infected with the H.I.V.? 	1.0952852809650464
+By entering into CD-4 cells the HIV increases its number very fast by reproducing and during this new viruses gets born in the cells	1.011976452355584
+After this the H.I.V.attacks other CD-4 cells , and this process is repeated again and again	1.0292483189521224
+H.I.V.destroys most of the CD-4 cells and thus the immune system of infected person gets destroyed	1.012433875566596
+Do get H.I.V.tested	1.59863666636355
+H.I.V.test is easy , safe and available at public health centres	1.2399457121892612
+A person starts falling ill again and again and continuously goes on weakening	1.0267811323931837
+A person becomes infected easily	1.2845569506430976
+Community Service Centre is for the people infected or unaffected with AIDS	1.225156955485786
+Here the H.I.V.infected persons are taken full care of and assisted , so that the member of the affected family can live a dignified and complete life	1.0016585910998168
+Generally pap starts developing in girls after the age of 15 years	1.1915951942422875
+To extract the appendix in case of swelling in the appendix	1.0812667974317518
+To ward off the disease of peptic ulcer	1.3025283885705634
+To repair hiatus hernia	1.7189581318962233
+For the treatment of inguinal hernia	1.4277142683750366
+Apart from this some diseases of the internal parts of chest may also be cured by this method	1.0136046999174486
+For example cancer abdominal , the diseases of the liver , diseases related to the intestine etc	1.0151899471529724
+In comparison with the traditional surgical operation this method has many advantages	1.0726935557275323
+There is no need to stay at hospital for more days due to no stitches being applied	1.0249006034213195
+In the button hole surgery the possibility of hurting the internal components of abdomen is much less	1.0283062955847542
+Because the internal scene is seen expanded on the screen of the television and is seen clearer directly	1.0107066758732728
+Because of only four holes being made the possibility of these wounds getting ripened or infected becomes very less	1.0188768541001978
+Laparoscopic method takes double time in comparison with the simple treatment	1.161116500621983
+Patients are administered more anesthetic medicine which has its own harms	1.2739729478851716
+Key hole surgery ' is a revolutionary invention in the field of surgery and more and more patients are being benefited with it	1.001826742272344
+The virus that can decrease the immune strength of the humans to fight diseases is called HIV	1.0209480301069525
+The treatment of H.I.V.is not available as yet but it can be avoided completely	1.0396534754226285
+The first patient of AIDS in India was found in 1986	1.075467518618555
+From 1986 till 2002 the number of people living with H.I.V.has become forty five lacs	1.1364843271870013
+AIDS spreads by administering infected blood	1.270115050030069
+AIDS spreads from the H.I.V.infected mother to her issues	1.0855825792094385
+AIDS does not spread through these	1.6849735160201584
+AIDS does not spread through touching , mutual interaction	1.383467361035413
+AIDS does not spread through living or staying together	1.3408011316938744
+AIDS does not spread through eating together , wearing each-other 's clothes or using same bathroom	1.0973925965247033
+H.I.V.virus gradually destroys the immune system of the body	1.0747820851161378
+Fever does not go down , diarrhoea does not stop , weight decreases	1.0815125772562435
+The blisters of the mouth does not cure and medicines do not affect	1.0307201959338412
+Hundreds of such small creatures live in our body that we can see only through microscope	1.0519712105051282
+Because of AIDS several such symptoms start showing up which give the inkling of AIDS	1.041886189846226
+Details of some important symptoms are given below	1.3741323881726495
+Frequent loose motion for a month	1.6205906917804827
+Frequent cough for a month	1.6609213573755786
+Sudden decrease in body weight by 10 percent	1.3156971021329278
+Wounds or blisters in mouth	1.7027282585504848
+Emergence of frequent freckles or blisters on the body	1.2810740589554785
+Increment of lymph nodes in size at more than one place	1.3258693784039741
+Cyst or swelling on breasts or any other place of the body	1.087385600582802
+Prevention of AIDS and propagation	1.591955626761296
+Adopt nutritious food and healthy lifestyle	1.475275626316712
+Separating and not treating persons living with H.I.V.in a hospital is an offence	1.1095939343283983
+It is necessary to maintain the secrecy of the persons living with H.I.V	1.0253803274671058
+Why discrimination when all the patients are equal to the doctor	1.1004870942248925
+H.I.V. AIDS is not a contagious disease	1.3366453637832363
+Infected persons live a normal life for 10 to 15 years also	1.1437263439302312
+Treatment with them at office , home , among friends should be the same as earlier	1.0638749065219877
+The prevalence rate of blindness in India is 1.4 percent , to bring this prevalence rate to 0.3 percent the National Programme for Control of Blindness was started by the Government of India	1.000394797455226
+Under the Nation Programme for Control of Blindness the blind people specially cataract affected people are being benefited by surgical operation	1.0087398312530849
+Special attention is being paid on the quality of the operation of cataract for which all district hospitals , base hospitals are being converted into Microscopic Centres	1.0015811521971347
+The program of eye test of the 10 to 14 years old school students is being run as a campaign in the beginning of the educational session to reduce the prevalence rate of blindness and the poor students suffering from vision problem are being distributed glasses free of cost	1.0000014191522353
+Active help is being taken from all the governmental , non-governmental , voluntary organizations in the Eye Test Programme	1.016885718914413
+The staffs related to eye department are being trained at different levels by the Government of India to reduce the prevalence rate of blindness	1.008476755896207
+Among the chief reasons of blindness , cataract is 55 percent , vision problems 19 percent , black cataract 4 percent , corneal pathology 7 percent , others 15 percent	1.0016398082739084
+Generally pure lens or its capsule becomes dim or milky with which the light can not reach inside the eyes and the patient can see dim or less	1.0010511248809788
+After that the patient of cataract are operated by eye-surgeon in well maintained hospitals	1.0520878958058621
+Spectacles are tested after 6 weeks	1.78588730830169
+Average perplexity	1.2034709741703498

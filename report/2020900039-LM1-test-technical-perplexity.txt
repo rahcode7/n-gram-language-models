@@ -1,0 +1,101 @@
+If suppose there is no reaction taking place then along the length of the reactor at Z the substrate concentration will reach to Sb same as in bulk 	1.0
+So , we will talk about kinetic 	inf
+Example could be BF 3 , AlCl 3 , SnCl 4 , SlCl 5 , ZnCl 2 , TiCl 4 , and so on , or they are derivatives , like RaCl 2 , R 2 AlCl and so on 	inf
+So , basically the type of cocatalyst also influence the polymerization because the acidity of this , this complex , the activity of this complex depends on how readily it can supply this cationic species , where I say proton or in this case it is a proton or a carbocation to the monomer , and for a proton or protogen or a proton supplier , it depends on the acidity of the cocatalyst 	1.0
+And so in that sense , it is not that important like radical chain polymerization 	1.0
+We just gave an example with the monomer and what we will do in the next lecture , we will talk about the other termination possibilities and will discuss the kinetics and the energetics of the cationic polymerization , cationic chain polymerization and then also discuss the characteristics and other features of anionic chain polymerization 	inf
+But in case of radicals we have seen , that the steady state concentration of the active radicals is very low and as a result , the propagation was comparatively low in a slower , in compression to these ionic polymerization 	inf
+So , let us now discuss the propagation step 	inf
+That means there is no concentration gradient across the film 	inf
+And while talking these general characteristics of ionic polymerization we will compare its differences or its likeliness with the chain , radical chain polymerization 	inf
+Normally what is happening is that this substrate is getting transported from bulk to the surface and at the surface reaction is taking place 	1.0000005102384908
+Based on the operational data that means the concentration of substrate in the feed and the product stream as well as the parameters of the reactor operation and the particle size , one can determine the length of the reactor required and if this length of the reactor required is relative to the length of the reactor required for biochemical reaction , if you compare this height required , let us say this is Z1 to that of the height required Z2 based on biochemical reaction if you calculate idealized reactor performance equation and calculate the height of the reactor required and compare the two values that gives you an identification whether film diffusion is controlling or not 	inf
+It will take some time whereas if the biochemical reaction is also taking place at the substrate then that length required will be given by Z2 at substrate concentration Ss 	inf
+D ) 2 / 3 This is the … 	inf
+We will not use this as a catalyst or a coinitiator because rather than other complication if the reaction , it is too fast , then the side reactions also come in the picture , the side reaction also increases 	inf
+So , this case , this is a protogen , which is basically proton donor protogen and this is cationogen , which is a cationic species donor or carbocationic , carbocation donor 	inf
+For example , one beta proton transfer to either monomer or counter ion or say polymer itself , solvent or some impurities , which is present or a transfer agent , like the case of chain radical polymerization , we talk about the chain transfer is possible 	inf
+So , though this trend is there , now while choosing the catalyst or the coinitiator , it is , it is not this general trend is always followed , you have to keep the other factors in mind as well 	inf
+We know that Lewis acidity follow this order 	inf
+Therefore rate of mass transfer is rm = kLam. ( Sb - SS ) In the case of a non - porous particle the issue is to develop an expression which gives you the substrate concentration at the surface because the reaction will take place at the surface of substrate concentration 	inf
+So , tight ion - pair or sometimes it is called contact ion - pair or see , some people say intimate ion - pair 	inf
+The quantity of enzyme immobilized on the surface is in fact very , very small compared to total surface area in which the whole enzyme is distributed inside the pores of the reactor 	inf
+Yes . Exactly what we are assuming here is that there is no reaction within the pores of the particle 	1.000000412935516
+So , let us now discuss the propagation step 	inf
+This Lewis acidity of this defined metals increases with the atomic numbers 	inf
+This is the height of the reactor 	inf
+This alkyl halide could be , say for example , R could be tertiary carbon or could be a triphenyl carbon group 	inf
+Remember , if you compare with the radical chain polymerization , this was the first reaction compared to the step , the first step , where radical was getting generated from the initiator molecule and we considered that as a rate determining step for radical chain polymerization 	1.0
+All the enzymes are present on the surface and in the thin film there is no reaction taking place 	1.0
+It is either cationic species or anionic species 	1.0000002844368523
+For example in the case of CSTR , life is much simpler ; if the fractional conversion desired is very high even at a high initial substrate concentration , the substrate concentration in the reactor will be quite low and that is the substrate concentration which is going in the outlet stream 	inf
+It has been shown at least empirically in a large number of experimental data that JD is equal to JD = C ( Re ) - n A very general relationship for JD factor has been given that it ’ s a function of Renault number to the power minus n and under different conditions of particle shape and the range of Renault number the magnitude of C and n varies and that can be estimated for a particular system 	inf
+The example we gave , most common propagation steps are in this page , what we just discussed now and as you can realize , that the rate of propagation will depend on the solvents 	1.000000257463594
+We will consider the case where the two parameters or rather all the three biochemical reaction , external film diffusion and internal pore diffusion are taking place 	inf
+So , Lewis acidity of these defined metals increases with atomic number 	inf
+Very broadly the effect of internal pore diffusion in a very simplistic way is described for isothermal reaction incorporated in the pore diffusional effects by k ’ 2E0Ss v ’ = ?	inf
+If this ligand , they follow this , so obviously , if the ligands are fluorine or chloride , they have much more Lewis acidity compared to the ligands are , this is , this is from your basic knowledge from inorganic chemistry , basic knowledge and this is , from this expression , you know , this is strongest Lewis acid and this is , not always we use this though it is a very strong Lewis acid , for all the cationic reaction 	inf
+number , Nsc 	inf
+I just recall from your earlier decision , I am writing the propagating reactions here 	inf
+So , eventually or practically , a low to moderate polarity solvents like , say methylene chloride or say , methylene dichloride or THF , or ether or nitrobenzene 	inf
+It is either cationic species or anionic species 	inf
+So , we have , we will discuss specifically for the requirement of solvent 	1.000000257463594
+I will just give you an example when this propagating steps could be little complicated and by hydride shift or shift and that is applicable for say , propene or one alkene , one alkenes , take example 	inf
+So , we talked about the initiator reaction with by this reaction of the monomers with the electrophile 	inf
+So , this type of solvent dependent reactivity was absent in case of radical chain polymerization 	inf
+The JD factor is JD factor = ( kL ?	inf
+kf apparent will be kL.kf.am kappf = kf + kL In your reactor design equation you can incorporate , instead of first order rate constant as this one which is based only on biochemical reaction , this rate expression 	inf
+So , solvated has three solvated ion - pair or loose ion - pair or they can be totally free , free ion - pair 	inf
+If this happens , the reactions become very complicated and we call that sometimes isomerization polymerization as well 	inf
+Now , once you form this , again react with the monomer and form the initiating species , which let us write in next page 	inf
+Similarly , if you use very high polar solvents , like hydroxylated solvents or ketone , then the reaction actually gets stopped by reaction of these solvent molecules with the reactive species 	inf
+Whatever concentration of substrate that has reached at the surface from there to the pores of the particle we are considering 	inf
+That means there is no concentration gradient across the film 	inf
+If the magnitude is large or Sb is much , much larger than Ss in that case film diffusion is the dominant player and so the nature of Lineweaver Burk plot under the range of condition of substrate concentration can give you an idea of the mass transfer coefficient 	inf
+First , let us talk about different types of initiation reactions , different types of initiation reaction and first one is , which is more common is , by reaction of monomer with an electrophile , say R plus and this electophile could be H plus , which you get it from protonic acids 	inf
+What I mean , that if they are very tightly bound , they are very tight , then obviously , the accessibility of , or the reactivity of this ionic center are less 	inf
+This is what we were talking about the external film diffusion and the other part of the whole story of the steady state analysis is related to internal pore diffusion 	inf
+You will see from this relationship that maximum effectiveness factor can be one because that means the you have a enzyme reaction rate under the condition when the whole enzyme particle is flooded with the substrate , the same substrate concentration what is present at surface is present across the particle , at all surface at all the pores and under that condition the effectiveness factor will be one 	inf
+kf is equal to a pseudo first order rate constant for enzyme catalyzed reaction which is k ’ 2E0 / K ’ m 	inf
+The magnitude of kL then gives you at steady state , the reaction rate 	1.000000020181417
+So , that is B , with the Lewis acid I can write generic structures like MX n for Lewis acids 	inf
+Once the magnitude of kL is known then one can really incorporate the value of kL into the rate constant of a reactor performance equation 	inf
+If you consider a first order case , then the reaction velocity will be v ’ = kf amSS kf I have defined here as a pseudo first order rate constant which is based on surface area ; not volumetric rate constant ; but the surface area based rate constant just to have a dimensional homogeneity with the mass transfer correlation 	1.0100551711577557
+So , this case , this is a protogen , which is basically proton donor protogen and this is cationogen , which is a cationic species donor or carbocationic , carbocation donor 	inf
+Now , like radical chain polymerization , these ionic chain polymers , polymerization reactions are not very popular commercially 	inf
+Now , now Lewis , Lewis acid , we are talking about this reaction are the initiation , is by Lewis acids 	inf
+When you increase the polarity by adding ethylene dichloride , dichloethane , EU , say in 40 - 60 mixture , your dielectric constant goes up , your reaction goes up 	inf
+Ultimately when you will measure the enzyme activity you will see that the enzyme activity is low because per unit enzyme loading the activity which will be expressed by the immobilized enzyme particle will be lower 	1.0
+is density , G is the superficial mass velocity and µ is the viscosity ; row is again density and D is the diffusivity 	inf
+A JD factor has been defined in the case of heterogeneous catalysis in general and which applies very well to even enzyme catalyzed reaction 	inf
+When you increase the polarity by adding ethylene dichloride , dichloethane , EU , say in 40 - 60 mixture , your dielectric constant goes up , your reaction goes up 	inf
+We discussed in length the effect of solvent polarity and if the polarity of the solvents is high , then this ion - pair will be more towards a solvated or free ion - pairs , then in the reactivity of this cationic species will be higher 	inf
+So , I can write… This is the reaction of isobutylene catalysed by this reaction 	inf
+So , we will talk about kinetic 	inf
+As I said , that bimolecular termination is not possible , bimolecular termination by the action of two propagating species is not possible and so if you can suppress the other , other reactions , which are chain transfer reaction , if you can suppress those , you can actually keep this chains , this ionic chains as living because you can , because the inherent or intrinsic termination reaction between the propagating species are not there , they are absent 	inf
+So , let us talk about and again , like radical polymerization if any chain polymerization , this cationic chain polymerization we were discussing 	inf
+So , these are Lewis , Lewis acid can be used for supplying an electrophile for reaction with the monomer , but it is this Lewis acids are seldom used alone 	1.2310362324243265
+That is if for example you take a particle let us say of one millimeter diameter ; determine the reaction rate and then also take a particle let us say of ten microns or twenty microns diameter in which we assume that the pore length is very , very small 	inf
+So , it consists of three steps : initiation , propagation and termination 	1.0
+So for example let us say if this Z is much , much smaller than the height required for biochemical reaction then you don ’ t have to worry about diffusion 	inf
+Based on the operational data that means the concentration of substrate in the feed and the product stream as well as the parameters of the reactor operation and the particle size , one can determine the length of the reactor required and if this length of the reactor required is relative to the length of the reactor required for biochemical reaction , if you compare this height required , let us say this is Z1 to that of the height required Z2 based on biochemical reaction if you calculate idealized reactor performance equation and calculate the height of the reactor required and compare the two values that gives you an identification whether film diffusion is controlling or not 	inf
+Now , in this lecture I plan to cover discuss the general characteristics of ionic chain polymerization , and while discussing I will compare how this ionic chain polymerization compares with radical chain polymerization 	inf
+One , they can be completely covalent bonding , covalent bonded , covalent bonded , one 	inf
+These are the most common example of or the most important initiation reaction 	inf
+It will take some time whereas if the biochemical reaction is also taking place at the substrate then that length required will be given by Z2 at substrate concentration Ss 	inf
+So , in this way you can understand , that solvents play , solvent means , I mean polarity of the solvent plays a very important role in terms of reactivity of these ionic reactions 	inf
+So , you have this initiator , coinitiator complex , which starts the chain initiation 	inf
+So , so other protonic acids like H 2 SO 4 or say , HClO 4 or phosphoric acid 	inf
+You will find out in later discussion , that in case of cationic there are other ways , which are likely like chain transfer reactions , but in case of anionic it is comfortably easy to make polymerization , leaving chain polymerization 	inf
+If this proton goes out and if something , one of the protons goes out from there , then you get CCH and that is possible , these are possible for other monomers where this is , these two types of double bond is a possibility 	inf
+So , ionic chain polymerization we will consider only when both the initiation and the propagation reaction is by ionic species 	inf
+So , these are Lewis , Lewis acid can be used for supplying an electrophile for reaction with the monomer , but it is this Lewis acids are seldom used alone 	inf
+First , let us talk about different types of initiation reactions , different types of initiation reaction and first one is , which is more common is , by reaction of monomer with an electrophile , say R plus and this electophile could be H plus , which you get it from protonic acids 	1.0
+Now , this can undergo a hydride shift and from this carbo cation 	inf
+Now , how this , if you want to write a , a generic structure of , say , to write , write a cationic propagating species , which have , which a cationic reactive centre and a counter ion , which is represented by A minus , so what are the possible states they can represent ?	inf
+For example , if I consider a case of halogen acids like HX and take the generic structure of the monomer with the reaction , we put on electrophilic reaction , it will form the same initiating species , but because this halogen anion is , is so strong nucleophile , it will actually combine again and form a covalent bond 	inf
+Now , depending on the association behavior of these two species , the active center and the counter ion , the reactivity of the propagating species varies 	1.0000002844368523
+So , we just discussed the propagation steps , now let us talk about different possible termination steps in cationic chain polymerization and as one more time , that it cannot , termination does not happen by bimolecular reaction of the propagating species and generally , the termination happens by transfer reactions 	inf
+We have discussed yesterday about the external film diffusion that is in cases where we consider nonporous matrices 	inf
+If this comes out , then you get a chain end with CH 2 	inf
+Average perplexity	inf
